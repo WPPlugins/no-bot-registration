@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: No-Bot Registration\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-21 11:34+0800\n"
+"PO-Revision-Date: 2017-02-21 11:34+0800\n"
+"Last-Translator: Arnan de Gans <info@ajdg.net>\n"
+"Language-Team: Arnan de Gans <info@ajdg.net>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: no-bot-registration.php:277
+msgid "Question:"
+msgstr ""
+
+#: no-bot-registration.php:279
+msgid "Delete Question"
+msgstr ""
+
+#: no-bot-registration.php:283
+msgid "Possible Answers:"
+msgstr ""
+
+#: no-bot-registration.php:296
+msgid "Add New"
+msgstr ""
+
+#: no-bot-registration.php:363
+msgid "No-Bot Registration settings"
+msgstr ""
+
+#: no-bot-registration.php:372
+msgid "No-Bot Registration by Arnan de Gans"
+msgstr ""
+
+#: no-bot-registration.php:375
+msgid ""
+"Prevent automated and manual bots from registering fake or spam accounts and "
+"adds a security question to compatible registration and comment forms!"
+msgstr ""
+
+#: no-bot-registration.php:377
+msgid "Support No-Bot Registration"
+msgstr ""
+
+#: no-bot-registration.php:378
+msgid ""
+"Consider writing a review or making a donation if you like the plugin or if "
+"you find the plugin useful. Thanks for your support!"
+msgstr ""
+
+#: no-bot-registration.php:389
+msgid "No-Bot Registration is brought to you by"
+msgstr ""
+
+#: no-bot-registration.php:392
+msgid ""
+"Arnan de Gans, I am a digital nomad in the Philippines. Check out my website!"
+msgstr ""
+
+#: no-bot-registration.php:409
+msgid "Registration protection"
+msgstr ""
+
+#: no-bot-registration.php:416
+msgid "Protect registration page?"
+msgstr ""
+
+#: no-bot-registration.php:419
+msgid ""
+"Add a security question to your registration form (Including custom ones in "
+"your theme)."
+msgstr ""
+
+#: no-bot-registration.php:424
+msgid "Protect comment form?"
+msgstr ""
+
+#: no-bot-registration.php:427
+msgid "Add a security question to your comment form."
+msgstr ""
+
+#: no-bot-registration.php:432
+msgid "Protect WooCommerce checkout?"
+msgstr ""
+
+#: no-bot-registration.php:435
+msgid ""
+"Add a security question to your checkout page (If you allow people to "
+"register accounts from there, has no effect if WooCommerce is not installed)."
+msgstr ""
+
+#: no-bot-registration.php:440
+msgid "Failure message:"
+msgstr ""
+
+#: no-bot-registration.php:444
+msgid ""
+"Displayed to those who fail the security question. Keep it short and simple."
+msgstr ""
+
+#: no-bot-registration.php:474
+msgid "Blacklisted e-mail domains"
+msgstr ""
+
+#: no-bot-registration.php:475
+msgid ""
+"If you get many fake accounts or paid robots registering you can blacklist "
+"their email addresses or domains to prevent them from adding multiple "
+"accounts."
+msgstr ""
+
+#: no-bot-registration.php:478
+msgid "Blacklist message:"
+msgstr ""
+
+#: no-bot-registration.php:482
+msgid ""
+"This message is shown to users who are not allowed to register on your site. "
+"Keep it short and simple."
+msgstr ""
+
+#: no-bot-registration.php:487
+msgid "Blacklisted emails:"
+msgstr ""
+
+#: no-bot-registration.php:491
+msgid ""
+"You can add: full emails (someone@hotmail.com), domains (hotmail.com) or "
+"simply a keyword (hotmail)."
+msgstr ""
+
+#: no-bot-registration.php:491
+msgid "One item per line! Add as many items as you need."
+msgstr ""
+
+#: no-bot-registration.php:492
+msgid "Caution:"
+msgstr ""
+
+#: no-bot-registration.php:492
+msgid ""
+"This is a powerful filter matching partial words. So banning \"mail\" will "
+"also block Gmail users!"
+msgstr ""
+
+#, fuzzy
+#~ msgid "OmniCard License"
+#~ msgstr "OmniCard Licentie"
+
+#, fuzzy
+#~ msgid "Activate"
+#~ msgstr "Activeer je licentie."
+
+#, fuzzy
+#~ msgid "De-activate"
+#~ msgstr "De-activeer deze licentie op alle sites"
+
+#~ msgid "De-activate all active keys on all sites"
+#~ msgstr "De-activeer deze licentie op alle sites"
+
+#~ msgid ""
+#~ "You are about to de-activate your license on ALL sites currently using "
+#~ "this License!"
+#~ msgstr ""
+#~ "Je staat op het punt om deze licentie voor alle sites waar deze actief is "
+#~ "te de-activeren!"
+
+#~ msgid "OK to continue, CANCEL to stop."
+#~ msgstr "OK om door te gaan. Annuleer om te stoppen."
+
+#~ msgid ""
+#~ "For iDEAL use: <code>wp-content/uploads/omnicard-ideal.png</code> to "
+#~ "replace the default logo."
+#~ msgstr ""
+#~ "Voor iDEAL gebruik: <code>wp-content/uploads/omnicard-ideal.png</code> om "
+#~ "het standaard icoon te vervangen"
+
+#~ msgid "Visa Card"
+#~ msgstr "Visa Card"
+
+#~ msgid "International payments. Available worldwide."
+#~ msgstr "Internationale betalingen, wereldwijd beschikbaar."
+
+#~ msgid "MasterCard"
+#~ msgstr "MasterCard"
+
+#~ msgid "Maestro"
+#~ msgstr "Masestro"
+
+#~ msgid "Receive Maestro Payments"
+#~ msgstr "Ontvang betalingen via Maestro bankpassen"
+
+#~ msgid "MiniTix"
+#~ msgstr "MiniTix"
+
+#~ msgid "Receive MiniTix Payments"
+#~ msgstr "Ontvang betalingen via MiniTix"
+
+#~ msgid ""
+#~ "Online wallet for payments up to &euro; 150 Euros. Available to Dutch "
+#~ "bank accounts only."
+#~ msgstr ""
+#~ "Online portemonnee voor betalingen tot &euro; 150 Euro. Alleen "
+#~ "beschikbaar voor Nederlandse bank rekeningen."
+
+#~ msgid "Visa or MasterCard"
+#~ msgstr "Visa of MasterCard"
+
+#~ msgid "Continue to a secure environment to complete your payment"
+#~ msgstr "Ga door naar de veilige betaalomgeving om de betaling af te ronden"
+
+#~ msgid "Card declined. Try another card or other payment method"
+#~ msgstr "Kaart geweigerd. Probeer een andere kaart of betaalmethode."
+
+#~ msgid "your account"
+#~ msgstr "jouw account"
+
+#~ msgid "Online wallet for (usually) small payments."
+#~ msgstr "Online portemonnee voor kleine betalingen."
+
+#~ msgid "Redirecting to PSP external gateway."
+#~ msgstr "Doorsturen naar PSP systeem."
+
+#~ msgid "Order set to PENDING. Error: %s."
+#~ msgstr "Order op AFWACHTEN gezet. Fout: %s."
+
+#~ msgid "Activate your License here."
+#~ msgstr "Activeer je licentie."
+
+#~ msgid "The email provided is invalid"
+#~ msgstr "Ongeldig email adres"
+
+#~ msgid "Invalid license key"
+#~ msgstr "Ongeldige licentie sleutel"
+
+#~ msgid "No remaining activations for this license"
+#~ msgstr "Geen activaties meer mogelijk voor dit licentie"
+
+#~ msgid "Action prohibited"
+#~ msgstr "Actie geweigerd"
+
+#~ msgid "Form can not be empty!"
+#~ msgstr "Formulier mag niet leeg zijn!"
+
+#~ msgid "Omnicard License"
+#~ msgstr "OmniCard Licentie"
+
+#~ msgid "Receive Mastercard Credit Card Payments"
+#~ msgstr "Ontvang betalingen via Mastercards"
+
+#~ msgid "2 hours"
+#~ msgstr "2 Uur"
